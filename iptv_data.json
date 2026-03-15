@@ -1,0 +1,13 @@
+[
+  {
+    "id": 101,
+    "name": "GitHub Cloud Server",
+    "url": "http://p1.iptvprivateserver.tv",
+    "mac": "00:1A:79:31:14:CA",
+    "type": "stb",
+    "source": "GitHub",
+    "status": "active",
+    "expiryDate": "2027-01-10",
+    "channels": 12000
+  }
+]
